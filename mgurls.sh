@@ -4,11 +4,17 @@
 #This is a Url Grapper Bash Script...
 #MGUrls==>My5t_Grabed_Urls
 echo ""
-echo "     !/////////////////////// Welcome To Automated Url Grabber \\\\\\\\\\\\\\\\\\\\\\\\\\\!"
-echo "____________________________________________________________________________________"
+echo " __  __  ____ _   _      _     
+|  \/  |/ ___| | | |_ __| |___ 
+| |\/| | |  _| | | | '__| / __|
+| |  | | |_| | |_| | |  | \__ \
+
+|_|  |_|\____|\___/|_|  |_|___/
+"
+echo "[=> Coded_By_MY5T_404 <=]"
 echo ""
-echo "Coded_By_MY5T_404"
 echo ""
+echo "## An Automated Url Grabber"
 echo ""
 read -p "How Many websites- " n
 echo ""

@@ -3,9 +3,15 @@
 #This is a installion Script which will automatically install all your requirment or intall scirpt
 echo ""
 echo ""
-echo "          //Welcome To Automated Installation\\"
-echo "___________________________________________________________"
-echo "Coded_By_MY5T_404"
+echo ''' __  __  ____ _   _      _       ___           _        _ _ 
+|  \/  |/ ___| | | |_ __| |___  |_ _|_ __  ___| |_ __ _| | |
+| |\/| | |  _| | | | |__| / __|  | || |_ \/ __| __/ _` | | |
+| |  | | |_| | |_| | |  | \__ \  | || | | \__ \ || (_| | | |
+|_|  |_|\____|\___/|_|  |_|___/ |___|_| |_|___/\__\__,_|_|_|
+'''
+
+echo "[=> Coded_By_MY5T_404 <=]"
+echo ""
 echo ""
 chmod +x mgurls.sh
 echo ""
@@ -44,7 +50,7 @@ then
 	echo ""
 	echo -e "Skipped Go-Lang installion.....\nGoing to next Step....\nPlease wait..................."
 else
-	echo -e "Wrong Statement From Go-Lang\n\n"
+	echo -e "\nWrong Statement From Go-Lang\n\n"
 fi
 
 
@@ -118,5 +124,5 @@ echo ""
 echo "Thanks For installing.."
 echo ""
 echo ""
-echo "%!((Coded_By_My5t_404))!%"
+echo '''%!((Coded_By_My5T_404))!%'''
 echo ""
