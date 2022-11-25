@@ -7,6 +7,7 @@ echo "          //Welcome To Automated Installation\\"
 echo "___________________________________________________________"
 echo "Coded_By_MY5T_404"
 echo ""
+chmod +x mgurls.sh
 echo ""
 read -p "1. Do you have golang?(y/n) => " a
 read -p "2. Do you have gau?(y/n) => " b
@@ -107,11 +108,13 @@ else
 	echo ""
 fi
 
-chmod +x mgurls.sh
+
 echo ""
 echo "\________________________________________________/"
 echo "Installion Successfully Completed."
-echo "Now You Can Run MGurls Script"
+echo ""
+echo "Now You Can Run MGurls Script."
+echo ""
 echo "Thanks For installing.."
 echo ""
 echo ""
