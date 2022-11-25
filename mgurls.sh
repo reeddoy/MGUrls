@@ -11,7 +11,7 @@ echo " __  __  ____ _   _      _
 
 |_|  |_|\____|\___/|_|  |_|___/
 "
-echo "[=> Coded_By_MY5T_404 <=]"
+echo "[==> Coded_By_MY5T_404 <==]"
 echo ""
 echo ""
 echo "## An Automated Url Grabber"
