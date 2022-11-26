@@ -50,6 +50,7 @@ then
 elif [ "$a" = "y" ]
 then
 	echo ""
+	cd
 	source .zshrc
 	echo -e "Skipped Go-Lang installion.....\nGoing to next Step....\nPlease wait..................."
 else
@@ -60,6 +61,7 @@ fi
 if [ "$b" = "n" ]
 then
 	echo "Gau installation Started.........."
+	cd
 	source .zshrc
 	echo ""
 	go install github.com/lc/gau/v2/cmd/gau@latest
@@ -81,6 +83,7 @@ fi
 if [ "$c" = "n" ]
 then
 	echo ""
+	cd
 	source .zshrc
 	echo "Gauplus installion Started....."
 	echo ""
@@ -103,6 +106,7 @@ fi
 if [ "$d" = "n" ]
 then
 	echo ""
+	cd
 	source .zshrc
 	echo "Waybackurls installion started...."
 	go install github.com/tomnomnom/waybackurls@latest
